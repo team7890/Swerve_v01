@@ -1,0 +1,34 @@
+/*----------------------------------------------------------------------------*/
+/* FRC Team 7890 SeQuEnCe                                                     */
+/*----------------------------------------------------------------------------*/
+
+
+/* Libraries that need to be included
+
+SparkMax (source web site = http://www.revrobotics.com/sparkmax-software/#java-api)
+https://www.revrobotics.com/content/sw/max/sdk/REVRobotics.json
+
+Phoenix/CTRE (source web site = https://phoenix-documentation.readthedocs.io/en/latest/ch05a_CppJava.html)
+http://devsite.ctr-electronics.com/maven/release/com/ctre/phoenix/Phoenix-latest.json
+
+Kauai NavX (source web site = https://pdocs.kauailabs.com/navx-mxp/software/roborio-libraries/java/)
+https://www.kauailabs.com/dist/frc/2021/navx_frc.json
+
+SDS Swerve Library (source web site = https://github.com/SwerveDriveSpecialties/swerve-lib)
+https://raw.githubusercontent.com/SwerveDriveSpecialties/swerve-lib/master/SdsSwerveLib.json
+
+*/
+
+
+/* Limelight Settings (from infinite recharge)
+    Pipeline Type:  Limelight Standard
+    Source Image:  Camera
+    Resolution:  320x240 90fps
+    LEDs:  On
+    Orientation:  Normal
+    Exposure:  4
+    Black Level Offset:  23
+    Red Balance:  500
+    Blue Balance:  2376
+*/
+
